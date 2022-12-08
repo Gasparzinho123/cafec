@@ -1,0 +1,55 @@
+header {
+	background: #A0522D;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 10 auto;
+}
+
+.tamanho{
+	width:40%;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 10px 3px 10px 3px ;
+    
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav ul{
+	font-size: 30px;
+}
+
+.p1{
+	font-size: 40px;
+}
+
+h2{
+	font-size: 60px;
+}
+
+.p2{
+	font-size: 40px;
+}
+
+.li li{
+   border: 2px solid black;
+	border-radius: 30px 30px 30px 30px;
+}
